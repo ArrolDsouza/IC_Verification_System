@@ -6,7 +6,7 @@ A comprehensive system for detecting fake vs real integrated circuits (ICs) usin
 
 - **GUI Interface**: User-friendly Tkinter interface for easy image upload and analysis
 - **Text Extraction**: Extracts text from IC images using advanced image processing
-- **Database Verification**: Cross-references extracted text against IC_DATA.csv database
+- **Database Verification**: Cross-references extracted text against IC_DATA.csv database Where Data is extracted from OME Datasheet
 - **Fake Detection**: Advanced algorithms to detect fake ICs based on multiple quality indicators
 - **Responsive Design**: Clean, responsive GUI that adapts to different screen sizes
 
