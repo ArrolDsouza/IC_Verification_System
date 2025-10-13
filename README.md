@@ -63,6 +63,11 @@ python ic_detector_gui.py
 2. **Analyze**: Click "Analyze" to process the image
 3. **View Results**: See the analysis results in the right panel
 
+<img width="1271" height="682" alt="Screenshot 2025-10-13 195807" src="https://github.com/user-attachments/assets/2b4f3fd6-d4ba-42db-95c6-88bae2d8f0cf" />
+
+<img width="1188" height="677" alt="Screenshot 2025-10-13 195906" src="https://github.com/user-attachments/assets/d657be7b-10ef-4942-b713-b7d5a3fd7613" />
+
+
 ### Analysis Results
 
 The system provides:
