@@ -1,0 +1,61 @@
+id,manufacturer,part_number,description,manufacturer_logo_text,part_number_text,additional_code_text,orientation_mark,marking_color,total_lines,canonical_normalized
+1,Texas Instruments,LM358N,Dual Operational Amplifier,TI,LM358N,YYWW,dot top-left,white,2,TILM358NYYWW
+2,Texas Instruments,LM324N,Quad Operational Amplifier,TI,LM324N,YYWW,dot top-left,white,2,TILM324NYYWW
+3,Texas Instruments,LM317T,Adjustable Voltage Regulator,TI,LM317T,YYWW,tab-top pin1-left,white,2,TILM317TYYWW
+4,Texas Instruments,TL072CN,Low Noise JFET Op-Amp,TI,TL072CN,YYWW,dot top-left,white,2,TITL072CNYYWW
+5,Texas Instruments,SN7400N,Quad 2-Input NAND Gate,TI,SN7400N,YYWW,dot top-left,white,2,TISN7400NYYWW
+6,Texas Instruments,LM7805CT,5V Voltage Regulator,TI,LM7805CT,YYWW,dot top-left,white,2,TILM7805CTYYWW
+7,Texas Instruments,LM741CN,General Purpose Op-Amp,TI,LM741CN,YYWW,dot top-left,white,2,TILM741CNYYWW
+8,Texas Instruments,SN74LS04N,Hex Inverter Logic Gate,TI,SN74LS04N,YYWW,dot top-left,white,2,TISN74LS04NYYWW
+9,Texas Instruments,NE555P,Precision Timer IC,TI,NE555P,YYWW,dot top-left,white,2,TINE555PYYWW
+10,Texas Instruments,LM393N,Dual Comparator,TI,LM393N,YYWW,dot top-left,white,2,TILM393NYYWW
+11,Texas Instruments,TL074CN,Quad Low-Noise Op-Amp,TI,TL074CN,YYWW,dot top-left,white,2,TITL074CNYYWW
+12,Texas Instruments,LM324DR,Quad Op-Amp SOIC package,TI,LM324DR,YYWW,dot top-left,white,2,TILM324DRYYWW
+13,Texas Instruments,LM1117T-3.3,3.3V Voltage Regulator,TI,LM1117T-3.3,YYWW,dot top-left,white,2,TILM1117T-33YYWW
+14,Texas Instruments,LM393P,Dual Comparator,TI,LM393P,YYWW,dot top-left,white,2,TILM393PYYWW
+15,Texas Instruments,TL081CP,JFET Input Op-Amp,TI,TL081CP,YYWW,dot top-left,white,2,TITL081CPYYWW
+16,Analog Devices,AD620,Instrumentation Amplifier,AD,AD620,YYWW,dot top-left,white,2,ADAD620YYWW
+17,Analog Devices,AD8232,Instrumentation Amplifier,AD,AD8232,YYWW,dot top-left,white,2,ADAD8232YYWW
+18,Analog Devices,AD9850,DDS Synthesizer,AD,AD9850,YYWW,dot top-left,white,2,ADAD9850YYWW
+19,Analog Devices,AD8221,Instrumentation Amplifier,AD,AD8221,YYWW,dot top-left,white,2,ADAD8221YYWW
+20,Analog Devices,AD7124,Precision ADC,AD,AD7124,YYWW,dot top-left,white,2,ADAD7124YYWW
+21,Maxim Integrated,MAX232,RS-232 Transceiver,MAX,MAX232,YYWW,dot top-left,white,2,MAXMAX232YYWW
+22,Maxim Integrated,MAX485,RS-485 Transceiver,MAX,MAX485,YYWW,dot top-left,white,2,MAXMAX485YYWW
+23,Maxim Integrated,MAX7219,LED Display Driver,MAX,MAX7219,YYWW,dot top-left,white,2,MAXMAX7219YYWW
+24,Maxim Integrated,MAX232CPE,RS-232 Transceiver,MAX,MAX232CPE,YYWW,dot top-left,white,2,MAXMAX232CPEYYWW
+25,Maxim Integrated,MAX485CPA,RS-485 Transceiver,MAX,MAX485CPA,YYWW,dot top-left,white,2,MAXMAX485CPAYYWW
+26,Linear Technology,LT1084,Adjustable Voltage Regulator,LT,LT1084,YYWW,tab-top pin1-left,white,2,LTLT1084YYWW
+27,Linear Technology,LT3080,Adjustable Voltage Regulator,LT,LT3080,YYWW,tab-top pin1-left,white,2,LTLT3080YYWW
+28,Linear Technology,LT3083,Adjustable Voltage Regulator,LT,LT3083,YYWW,tab-top pin1-left,white,2,LTLT3083YYWW
+29,Linear Technology,LT1085,Adjustable Voltage Regulator,LT,LT1085,YYWW,tab-top pin1-left,white,2,LTLT1085YYWW
+30,Linear Technology,LT1086,Adjustable Voltage Regulator,LT,LT1086,YYWW,tab-top pin1-left,white,2,LTLT1086YYWW
+31,National Semiconductor,LM358,Dual Operational Amplifier,NS,LM358,YYWW,dot top-left,white,2,NSLM358YYWW
+32,National Semiconductor,LM324,Quad Operational Amplifier,NS,LM324,YYWW,dot top-left,white,2,NSLM324YYWW
+33,National Semiconductor,LM317,Adjustable Voltage Regulator,NS,LM317,YYWW,tab-top pin1-left,white,2,NSLM317YYWW
+34,National Semiconductor,LM7805,5V Voltage Regulator,NS,LM7805,YYWW,tab-top pin1-left,white,2,NSLM7805YYWW
+35,National Semiconductor,LM7812,12V Voltage Regulator,NS,LM7812,YYWW,tab-top pin1-left,white,2,NSLM7812YYWW
+36,STMicroelectronics,LM358,Dual Operational Amplifier,ST,LM358,YYWW,dot top-left,white,2,STLM358YYWW
+37,STMicroelectronics,LM324,Quad Operational Amplifier,ST,LM324,YYWW,dot top-left,white,2,STLM324YYWW
+38,STMicroelectronics,LM317,Adjustable Voltage Regulator,ST,LM317,YYWW,tab-top pin1-left,white,2,STLM317YYWW
+39,STMicroelectronics,LM7805,5V Voltage Regulator,ST,LM7805,YYWW,tab-top pin1-left,white,2,STLM7805YYWW
+40,STMicroelectronics,LM7812,12V Voltage Regulator,ST,LM7812,YYWW,tab-top pin1-left,white,2,STLM7812YYWW
+41,Microchip,ATmega328P,8-bit Microcontroller,MICROCHIP,ATmega328P,YYWW,dot top-left,white,2,MICROCHIPATMEGA328PYYWW
+42,Microchip,PIC16F877A,8-bit Microcontroller,MICROCHIP,PIC16F877A,YYWW,dot top-left,white,2,MICROCHIPPIC16F877AYYWW
+43,Microchip,PIC18F4550,8-bit Microcontroller,MICROCHIP,PIC18F4550,YYWW,dot top-left,white,2,MICROCHIPPIC18F4550YYWW
+44,Microchip,ATtiny85,8-bit Microcontroller,MICROCHIP,ATtiny85,YYWW,dot top-left,white,2,MICROCHIPATTINY85YYWW
+45,Microchip,PIC12F675,8-bit Microcontroller,MICROCHIP,PIC12F675,YYWW,dot top-left,white,2,MICROCHIPPIC12F675YYWW
+46,Intel,8086,16-bit Microprocessor,INTEL,8086,YYWW,dot top-left,white,2,INTEL8086YYWW
+47,Intel,8088,16-bit Microprocessor,INTEL,8088,YYWW,dot top-left,white,2,INTEL8088YYWW
+48,Intel,80386,32-bit Microprocessor,INTEL,80386,YYWW,dot top-left,white,2,INTEL80386YYWW
+49,Intel,80486,32-bit Microprocessor,INTEL,80486,YYWW,dot top-left,white,2,INTEL80486YYWW
+50,Intel,Pentium,32-bit Microprocessor,INTEL,Pentium,YYWW,dot top-left,white,2,INTELPENTIUMYYWW
+51,Fairchild Semiconductor,LM358,Dual Operational Amplifier,FAIRCHILD,LM358,YYWW,dot top-left,white,2,FAIRCHILDLM358YYWW
+52,Fairchild Semiconductor,LM324,Quad Operational Amplifier,FAIRCHILD,LM324,YYWW,dot top-left,white,2,FAIRCHILDLM324YYWW
+53,Fairchild Semiconductor,LM317,Adjustable Voltage Regulator,FAIRCHILD,LM317,YYWW,tab-top pin1-left,white,2,FAIRCHILDLM317YYWW
+54,Fairchild Semiconductor,LM7805,5V Voltage Regulator,FAIRCHILD,LM7805,YYWW,tab-top pin1-left,white,2,FAIRCHILDLM7805YYWW
+55,Fairchild Semiconductor,LM7812,12V Voltage Regulator,FAIRCHILD,LM7812,YYWW,tab-top pin1-left,white,2,FAIRCHILDLM7812YYWW
+56,ON Semiconductor,LM358,Dual Operational Amplifier,ON,LM358,YYWW,dot top-left,white,2,ONLM358YYWW
+57,ON Semiconductor,LM324,Quad Operational Amplifier,ON,LM324,YYWW,dot top-left,white,2,ONLM324YYWW
+58,ON Semiconductor,LM317,Adjustable Voltage Regulator,ON,LM317,YYWW,tab-top pin1-left,white,2,ONLM317YYWW
+59,ON Semiconductor,LM7805,5V Voltage Regulator,ON,LM7805,YYWW,tab-top pin1-left,white,2,ONLM7805YYWW
+60,ON Semiconductor,LM7812,12V Voltage Regulator,ON,LM7812,YYWW,tab-top pin1-left,white,2,ONLM7812YYWW
