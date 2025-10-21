@@ -113,9 +113,6 @@ The system uses multiple criteria to determine if an IC is fake:
 - Minimum 4GB RAM
 - OpenCV, NumPy, Pandas, Pillow, Tkinter
 
-## Thecnology used
-<img width="655" height="443" alt="image" src="https://github.com/user-attachments/assets/aa5c288d-e5d6-4fca-9272-acc85a7c71e4" />
-
 
 ### Performance Tips
 
